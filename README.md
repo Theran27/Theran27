@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me  
 
-I’m a first-year undergraduate with a strong interest in **frontend development** and UI design. I enjoy creating clean, simple, and user-friendly web interfaces.  
+I’m a second-year undergraduate with a strong interest in **frontend development** and UI design. I enjoy creating clean, simple, and user-friendly web interfaces.  
 
 Currently, I’m focusing on building a solid foundation in frontend technologies and improving my skills through hands-on practice — *tikak tikak grow wenna* 🚀  
 
