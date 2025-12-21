@@ -1,6 +1,6 @@
 # Hi 👋, I'm Theran  
 
-🎓 First-year Computer Science Undergraduate  
+🎓 Second-year Computer Science Undergraduate  
 💻 Aspiring Frontend Developer  
 🌱 Learning, building & improving every day  
 
