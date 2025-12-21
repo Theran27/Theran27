@@ -1,54 +1,68 @@
-# Hi 👋, I'm Thathsara  
+# Hi 👋, I'm Theran  
 
-🎓 First-year Computer Science undergraduate  
+🎓 First-year Computer Science Undergraduate  
 💻 Aspiring Frontend Developer  
-🌱 Currently learning and building small projects step by step  
+🌱 Learning, building & improving every day  
 
 ---
 
-## 👩‍💻 About Me  
+## 🙋‍♂️ About Me  
 
-I’m a first-year undergraduate who is passionate about **frontend development** and creating clean, user-friendly interfaces. I enjoy turning ideas into simple and visually appealing web experiences.  
+I’m a first-year undergraduate with a strong interest in **frontend development** and UI design. I enjoy creating clean, simple, and user-friendly web interfaces.  
 
-Right now, I’m focused on strengthening my fundamentals and improving my skills through practice and personal projects. Slowly but surely — *tikak tikak grow wenna* 🚀  
-
----
-
-## 🛠️ Skills & Technologies  
-
-- **Languages:**  
-  - HTML  
-  - CSS  
-  - JavaScript (Basics)
-
-- **Frontend Tools:**  
-  - Figma (UI design basics)  
-  - Git & GitHub  
-
-- **Currently Learning:**  
-  - Responsive Web Design  
-  - Modern JavaScript  
-  - UI/UX best practices  
+Currently, I’m focusing on building a solid foundation in frontend technologies and improving my skills through hands-on practice — *tikak tikak grow wenna* 🚀  
 
 ---
 
-## 📌 What I’m Working On  
+## 🛠️ Skills & Tools  
 
-- Beginner-level frontend projects  
-- Improving layout and responsive design skills  
-- Learning how real-world websites are structured  
+### 🌐 Languages  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Basics-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🎨 Design & Dev Tools  
+![Figma](https://img.shields.io/badge/Figma-Design-0ACF83?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Code_Hosting-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📌 Currently Learning  
+
+- Responsive Web Design  
+- JavaScript fundamentals  
+- UI/UX basics for web applications  
+- Git & GitHub workflow  
+
+---
+
+## 📊 GitHub Activity & Commit Diagram  
+
+### 🔥 Contribution Streak  
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true)
+
+### 📈 GitHub Stats  
+![Theran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react)
+
+### 🧩 Most Used Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react)
+
+> 📌 *These diagrams update automatically based on your commits and activity.*
 
 ---
 
 ## 🎯 Career Goal  
 
-To become a **skilled Frontend Developer** who builds user-friendly, modern, and responsive web applications, and to grow step by step in the software development field.  
+To become a **Frontend Developer** who builds modern, responsive, and user-friendly web applications, while continuously learning and growing in the software development field.  
 
 ---
 
-## 🤝 Let’s Connect  
+## 🤝 Connect With Me  
 
-- GitHub: *(You are already here 😄)*  
-- LinkedIn: *(Add later)*  
+[![GitHub](https://img.shields.io/badge/GitHub-Theran-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Later-0A66C2?style=for-the-badge&logo=linkedin)](#)
 
-Thanks for visiting my profile! ⭐  
+---
+
+⭐ Thanks for visiting my profile!
