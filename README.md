@@ -8,9 +8,9 @@
 
 ## 🙋‍♂️ About Me  
 
-I’m a second-year undergraduate with a strong interest in **frontend development** and UI design. I enjoy creating clean, simple, and user-friendly web interfaces.  
+I’m a first-year undergraduate with a strong interest in **frontend development** and UI design. I enjoy creating clean, simple, and user-friendly web interfaces.  
 
-Currently, I’m focusing on building a solid foundation in frontend technologies and improving my skills through hands-on practice — *tikak tikak grow wenna* 🚀  
+Currently, I’m focusing on building a strong foundation in frontend technologies and improving my skills through hands-on practice — *tikak tikak grow wenna* 🚀  
 
 ---
 
@@ -32,7 +32,7 @@ Currently, I’m focusing on building a solid foundation in frontend technologie
 
 - Responsive Web Design  
 - JavaScript fundamentals  
-- UI/UX basics for web applications  
+- UI/UX basics  
 - Git & GitHub workflow  
 
 ---
@@ -40,28 +40,26 @@ Currently, I’m focusing on building a solid foundation in frontend technologie
 ## 📊 GitHub Activity & Commit Diagram  
 
 ### 🔥 Contribution Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Theran27&theme=react&hide_border=true)
 
 ### 📈 GitHub Stats  
-![Theran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react)
+![Theran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Theran27&show_icons=true&theme=react)
 
 ### 🧩 Most Used Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react)
-
-> 📌 *These diagrams update automatically based on your commits and activity.*
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Theran27&layout=compact&theme=react)
 
 ---
 
 ## 🎯 Career Goal  
 
-To become a **Frontend Developer** who builds modern, responsive, and user-friendly web applications, while continuously learning and growing in the software development field.  
+To become a **Frontend Developer** who builds modern, responsive, and user-friendly web applications, while continuously learning and growing in the tech field.  
 
 ---
 
 ## 🤝 Connect With Me  
 
-[![GitHub](https://img.shields.io/badge/GitHub-Theran-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add_Later-0A66C2?style=for-the-badge&logo=linkedin)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Theran27-181717?style=for-the-badge&logo=github)](https://github.com/Theran27)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-0A66C2?style=for-the-badge&logo=linkedin)](#)
 
 ---
 
