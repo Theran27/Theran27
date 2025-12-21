@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋, I'm Thathsara  
 
-<!--
-**Theran27/Theran27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Computer Science undergraduate  
+💻 Aspiring Frontend Developer  
+🌱 Currently learning and building small projects step by step  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me  
+
+I’m a first-year undergraduate who is passionate about **frontend development** and creating clean, user-friendly interfaces. I enjoy turning ideas into simple and visually appealing web experiences.  
+
+Right now, I’m focused on strengthening my fundamentals and improving my skills through practice and personal projects. Slowly but surely — *tikak tikak grow wenna* 🚀  
+
+---
+
+## 🛠️ Skills & Technologies  
+
+- **Languages:**  
+  - HTML  
+  - CSS  
+  - JavaScript (Basics)
+
+- **Frontend Tools:**  
+  - Figma (UI design basics)  
+  - Git & GitHub  
+
+- **Currently Learning:**  
+  - Responsive Web Design  
+  - Modern JavaScript  
+  - UI/UX best practices  
+
+---
+
+## 📌 What I’m Working On  
+
+- Beginner-level frontend projects  
+- Improving layout and responsive design skills  
+- Learning how real-world websites are structured  
+
+---
+
+## 🎯 Career Goal  
+
+To become a **skilled Frontend Developer** who builds user-friendly, modern, and responsive web applications, and to grow step by step in the software development field.  
+
+---
+
+## 🤝 Let’s Connect  
+
+- GitHub: *(You are already here 😄)*  
+- LinkedIn: *(Add later)*  
+
+Thanks for visiting my profile! ⭐  
